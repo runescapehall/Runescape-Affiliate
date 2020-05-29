@@ -1,0 +1,34 @@
+# Site
+name: "Runescape Hall"
+title: "Runescape Hall"
+description: "Reviving Runescape Nostalgia."
+meta_description: "Posts about OSRS, Runescape Classic, and other lost information about the Runescape universe."
+logo: 'assets/images/hall.png'
+favicon: 'assets/Med.ico'
+paginate: 5
+baseurl: '/'
+url: "https://www.runescapehall.net"
+email: 'admin@runescapehall.net'
+sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+
+# Authors
+authors:
+  sal:
+    name: RSH
+    display_name: RSH
+    gravatar: 
+    email: admin@runescapehall.net
+    web: 
+    twitter: runescapehall
+    description: 
+    
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  
+# Other
+markdown: kramdown
+highlighter: rouge
