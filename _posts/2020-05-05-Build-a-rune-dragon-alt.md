@@ -1,6 +1,7 @@
 ---
 title: Build a Rune Dragon Alt – An Easy 1M+ Gold Per Hour
 layout: post
+image: https://i.imgur.com/Vs0ZZov.jpg
 ---
 
 Most of the neck-beard efficient players put lots of hours not only into their main accounts or ironmen, but they also have come up with ways to make money in the background to fund their skilling. The Rune Dragon Alt is the peak AFK money maker in the game, and while it’s not entirely seamless, it is much better than running several Amthyst mining or Cannonball-making accounts at once.
