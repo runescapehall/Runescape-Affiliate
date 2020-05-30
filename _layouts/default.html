@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="google-site-verification" content="8_oPMBwNlpTO98Mwg9KIm6B5kC3js-b0itRHEF-SMAQ" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="icon" href="{{ site.baseurl }}/assets/images/Med.ico">    
+<title>{{ page.title }} | {{site.name}}</title>
+{% seo %}
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Rubik:400,400i,500,500i,700,700i" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
+    
+{{site.sharethis}}
+    
+    
+
+    
+</head>
+    
+
+    
+{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
+<body class="{{ layout }}">
+
+    
+<!-- Begin Menu Navigation
+================================================== -->
+<header class="navbar navbar-toggleable-md navbar-light bg-white fixed-top mediumnavigation">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsWow" aria-controls="navbarsWow" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="container">
+
+        <!-- Begin Logo -->
+        <a class="navbar-brand" href="{{ site.baseurl }}/">
+        <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
+        </a>
+        <!-- End Logo -->
+
+        <!-- Begin Menu -->
+        <div class="collapse navbar-collapse" id="navbarsWow">
+            
+            <!-- Begin Menu -->
+            <ul class="navbar-nav ml-auto">
+                
+                <li class="nav-item">                
+                <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
+                </li>
+                
+                <li class="nav-item">                
+                    <a class="nav-link" href="{{ site.baseurl }}/contact">Contact</a>
+                </li> 
+                
+            </ul>
+            <!-- End Menu -->
+            
+        </div>
+    </div>
+</header>
+    
+
+    
+<!-- End Menu Navigation
+================================================== -->
+    
+<div class="site-content">
+    
+    <div class="container">
+
+    <!-- Site Title
+    ================================================== -->
+    <center>
+    <div class="mainheading" style="display:none;">
+        <h1 class="sitetitle">My Tummy Toys</h1>
+        <p class="lead">
+             All about collectible toys & tabletop games. We focus on the Warhammer universe, as well as Nintendo Amiibo, Pokémon, Magic: The Gathering.
+        </p>
+    </div>
+        </center>
+
+    <!-- Content
+    ================================================== --> 
+    <div class="main-content">
+        {{ content }}
+    </div>
+
+    </div><!-- /.container --> 
+
+
+    <!-- Begin Footer
+    ================================================== -->
+    <footer class="footer">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-sm-3">
+                <div class="footer-widget">
+                <a href="{{site.baseurl}}/contact">
+                <img src="{{ site.baseurl }}/assets/images/logo-footer.png">
+                </a>
+                </div>
+                </div>
+
+                <div class="col-sm-3">
+                <div class="footer-widget">
+                <h5 class="title"></h5>
+                <ul>
+                
+                </ul>
+                </div>
+                </div>
+
+                <div class="col-sm-3">
+                <div class="footer-widget">
+                <h5 class="title">Meta</h5>
+                <ul>
+                <li><a href="https://mytummytoys.com/contact">Contact</a></li>
+                <li><a href="https://mytummytoys.com/Advertise">Advertise</a></li>
+                </ul>
+                </div>
+                </div>
+
+                <div class="col-sm-3">
+                <div class="footer-widget textwidget">
+                <!-- Open for a bottom right widget or ads --> 
+
+                </div>
+                </div>
+            </div>
+
+            <div class="copyright">
+                <p class="pull-left">
+                Copyright © {{ site.time | date: "%Y" }} {{ site.name }}.
+                </p>
+                <p class="pull-right">
+                <!-- Open for a "designed by" link --> 
+                </p>
+                <div class="clearfix"></div>
+            </div>
+
+        </div>
+
+    </footer>
+    <!-- End Footer
+    ================================================== -->
+
+    
+</div> <!-- /.site-content>
+
+<!-- JavaScript
+================================================== -->
+    
+<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+    
+<script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
+    
+<script type='text/javascript' src='{{ site.baseurl }}/assets/js/masonry.pkgd.min.js'></script>
+    
+<script src="{{ site.baseurl }}/assets/js/theme.js"></script>    
+    
+</body>
+    
+</html>
