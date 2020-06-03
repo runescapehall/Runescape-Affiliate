@@ -59,8 +59,6 @@ There are 144 quests in OSRS, and all of them are technically optional. In the f
 
 Quests have the benefit of giving experience and allows you to skip low-level grinds in some cases. For example, Doric’s quest will get you to Level 10 Mining by simpling giving him his list of ores. Complete the Knight’s Sword quest to jump past Level 30 Smithing to avoid buying lots of ores & bars.
 
-## Skilling
-
 ## Is it time to upgrade to Members?
 
 While you can purchase members with your credit card, the most preferable way to do so is via in-game gold with Oldschool Bonds. Bonds is a relatively recent concept in which players can sell them to other players for gold, and then they can unlock Members-only content.
