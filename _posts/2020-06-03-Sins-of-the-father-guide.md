@@ -53,12 +53,16 @@ Head to Drezel at the Paterdomus temple.
 
 You will get into a conversation with Veliaf and Drezel, discussing the strange happenings with Werewolves in the area. He also includes the story where you were kidnapped by werewolves I a previous quest.
 After discussing the 7 priestly warriors, you will be instructed to go to the Haunted Woods. But first, you will need to locate Ivan near the **Frenkenstrain Castle**.
+
 Immediately south of the Caste, you will find Ivan in his red outfit, talk to him and it will go into a cut-scene after a few dialogs.
+
 Take along an axe, knife, and minimal supplies to get ready to escort Ivan. Once ready, meet him at the entrance of the temple to start the trekking session.
+
 Once you get to the first encounter to cross the stream, cut vines from the nearby tree to fashion a rope.
 Use the rope on the overhanding swamp tree branch to create a swing, allowing both of you to cross. Continue on the path ahead.
 If you encounter the nail beasts, protect from melee as they can hit hard, and simply kill all three before moving on.
 Please refer to the official Temple Trekking Guide on OSRS wiki if you have other encounters, as it may be randomly generated just like in the mini-game.
+
 Once you have finished the escort mission, go down to the boat house, which is in the southernmost part of town.
 After talking with Veliaf, hop into the boat, and slect the Icyene Graveyard.
 
