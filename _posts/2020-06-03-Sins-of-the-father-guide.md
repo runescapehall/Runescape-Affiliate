@@ -59,18 +59,110 @@ Immediately south of the Caste, you will find Ivan in his red outfit, talk to hi
 Take along an axe, knife, and minimal supplies to get ready to escort Ivan. Once ready, meet him at the entrance of the temple to start the trekking session.
 
 Once you get to the first encounter to cross the stream, cut vines from the nearby tree to fashion a rope.
+
 Use the rope on the overhanding swamp tree branch to create a swing, allowing both of you to cross. Continue on the path ahead.
+
 If you encounter the nail beasts, protect from melee as they can hit hard, and simply kill all three before moving on.
+
 Please refer to the official Temple Trekking Guide on OSRS wiki if you have other encounters, as it may be randomly generated just like in the mini-game.
 
 Once you have finished the escort mission, go down to the boat house, which is in the southernmost part of town.
+
 After talking with Veliaf, hop into the boat, and slect the Icyene Graveyard.
 
 ## The Graveyard
-You will be once again reunited with Saflaan Hallow, and there will be dialogue between him and Veliaf, and Vanescula Drakan. You will then be ordered to find a way into the locked masoleum.
+
+You will be once again reunited with Saflaan Hallow, and there will be dialogue between him and Veliaf, and Vanescula Drakan. 
+
+You will then be ordered to find a way into the locked masoleum.
+
 You will need to toggle with each row until you have the right combination of numbers, making all numbers green. It’s a sodoku-like puzzle. Once all rows and columns add up to green numbers, it will trigger a cut-scene.
-After discovering what’s in the grave, you need to talk to all members in the the gaveyard. Follow the instructions on who to talk to next until all the members are crossed out in your quest guide. It should end with Veliaf and trigger another cutscene.
+
+After discovering what’s in the grave, you need to talk to all members in the the gaveyard. Follow the instructions on who to 
+talk to next until all the members are crossed out in your quest guide. It should end with Veliaf and trigger another cutscene.
+
 After the team reuinites, it is suggested that you need an improved Ivandis flail, and you should meet at the old laboratory. 
+
+## The Laboratory
+
+The easiest way to get to the Lab is by teleporting to the Theatre of Blood with your Drakan Amulet, and encountering a 
+
+Vyrewatch that will send you to the mines.
+
+Once you fill up the cart with the required ore, you can leave the mines and head to an easy path towards the old laboratory.
+
+Location of the lab:
+![](https://i.imgur.com/DjNQbgW.png)
+![](https://oldschool.runescape.wiki/images/thumb/3/39/Doh-mine%2Blab.png/200px-Doh-mine%2Blab.png?e6941)
+
+Speak to Saflaan in the lab, and let him lead you to the  Bloodvelds. Once he is attacked, he will glow and you will be forced into a fight with a mutated bloodveld (which can be killed with any weapon).
+
+Speak to him again and go through all threee dialogues. Proceed to search for more research in the lab.
+
+In the middle-western room with a bunch of mutated bloodvelds, you will find volume 2 of the book. **Return the book to Safalaan.**
+
+Head back to Burgh de Rott and use the boat back to Icyene Graveyard.
+
+Speak to the Myreque team members at the eastern part of Graveyard. They will discuss the Blisterwood tree in Darkmeyer.
+
+Go underground lair under Old Man Ral house in Meiyerditch to receive a disguise from a regular vyrewatch costume. This can be 
+
+bought by Trader Sven, who is nearby. 
+
+Head back to Icyene Graveyard and click to talk with to Vanescula.
+
+Head to the Zamorakian church in Slepe. This would be a good opportunity to recharge your prayer.
+
+You will have a battle with Damien Leucurte, who is level 204 and has multiple combat stances.
+
+Damien Leucerte uses a combination of ranged and magic stances, spreading magical fire around the room during the fight. If you 
+have a high combat level, this is not a hard fight.
+
+He can also poison you during the fight, so some form of **Anti-poison** is recommended, like an anti-poison++.
+
+**Put out the magical fires to prevent your damage from being reduced**. Veliaf be around, but won’t do much in the big picture.
+
+After fight make sure to speak to Veliaf before leaving 
+
+Return to Icyene Graveyard to discuss your disguise further.
+
+Go to Darkmeyer with disguise equipped. 
+
+Go  to the Arborterium and get stopped by a vampire while trying to enter it. 
+
+You will see Mordan Nikazsi is aampire juvinate. 
+
+He can be found back towards the entrance to Darkmeyer, east of the crack you climbed through, in a house near the outer wall. 
+
+He sends you to find some slaves. 
+
+The slaves are in a prison north of the Arborterium. 
+
+Go intothe Arborterium 
+
+Search the toppled shelves for an old note 
+
+Read the note and turn the valves near the entrance according to the description of how much water is needed 
+
+Obtain 8 logs from the blister tree. 
+
+Head back to the Icyene Graveyard with 8 blister wood logs in your inventory. 
+
+Head back to the underground lair under Old Man Ral house in Meiyerditch. 
+
+Grab a sickle from the crate 
+
+Combine sickle and ruby (requires chisel) 
+
+Enchant the ruby sickle 
+
+Create the Blisterwood Sickle with a ehcanted ruby sickle, and blister wood log. 
+
+Defeat Vanstrom Klause (level 413) where you can use Efaritay's aid to damage him using normal weapons in his vampyre phase. 
+
+Bring a ranged switch to kill the mini bloodvelds that spawn 
+
+You can lure Vanstrom into the blood orbs that he creates.
 
 
 
