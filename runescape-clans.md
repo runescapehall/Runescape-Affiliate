@@ -12,4 +12,8 @@ We've compiled a list of old and new clans that have existed in Runescape. Just 
 - [Reign of Terror](https://www.runescapehall.net/2020/02/05/reign-of-terror.html)
 - [Dark Slayers](https://www.runescapehall.net/2020/02/05/dark-slayers-final-memberlist.html)
 - [Red Devil Clan](https://www.runescapehall.net/2020/02/red-devil-clan-in-2007.html)
-- 
+- [Tha Outlawz](https://www.runescapehall.net/tha-outlawz-clan-memberlist)
+- [Ancient Blood](https://www.runescapehall.net/ancient-blood-clan)
+- [The British Elites](https://www.runescapehall.net/the-british-elites-runescape-clan)
+- [Wilderland](https://www.runescapehall.net/wilderland-luso-brazillian-clan-runescape)
+- [Adelais](https://www.runescapehall.net/Adelais)
