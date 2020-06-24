@@ -23,3 +23,4 @@ We've compiled a list of old and new clans that have existed in Runescape. Just 
 - [Dark Nation](https://www.runescapehall.net/dark-nation)
 - [The Titans](https://www.runescapehall.net/the-titans)
 - [Rune Raiders](https://www.runescapehall.net/rune-raiders)
+- [Blacknights](https://www.runescapehall.net/BK-clan)
