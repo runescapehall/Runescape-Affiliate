@@ -17,3 +17,7 @@ We've compiled a list of old and new clans that have existed in Runescape. Just 
 - [The British Elites](https://www.runescapehall.net/the-british-elites-runescape-clan)
 - [Wilderland](https://www.runescapehall.net/wilderland-luso-brazillian-clan-runescape)
 - [Adelais](https://www.runescapehall.net/Adelais)
+- [TMRD](https://www.runescapehall.net/tmrd)
+- [Gladiatorz](https://www.runescapehall.net/the-gladiatorz)
+- [Divine Forces](https://www.runescapehall.net/divine-forces)
+- 
