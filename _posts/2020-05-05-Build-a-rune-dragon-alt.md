@@ -8,7 +8,8 @@ Most of the neck-beard efficient players put lots of hours not only into their m
 
 ## What is Required to Make a Rune Dragon Alt?
 
-Let’s be frank. Dragon Slayer 2 requires the completion of vast majority of quests in the game, as well as building your melee stats near the maximum so you can put up a fight against Rune dragons. It is highly recommeneded to check out [this Google document]() to see the easiest path to take in terms of questing. Monkey Madness II, and other Master quests are optional.
+Let’s be frank. Dragon Slayer 2 requires the completion of vast majority of quests in the game, as well as building your melee stats near the maximum so you can put up a fight against Rune dragons. It is highly recommeneded to check out [this Google document](https://docs.google.com/spreadsheets/d/1iK2FVTOu3XjIm3OkAyu6kpku-439AFIvVZerD3nYVhE/edit#gid=0) to see the easiest path to take in terms of questing. Monkey Madness II, and other Master quests are optional.
+
 According to any efficient neck-beard, your stats should ideally be:
 - 95 In Attack, defense, & strength
 - 80+ Range to put up a fight against Galvek
