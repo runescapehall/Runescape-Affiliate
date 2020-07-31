@@ -9,7 +9,7 @@ That's right, Runescape and Oldschool Runecape has a real-life merchandise store
 
 Although OSRS is created, hosted, and maintained in the UK, their audience is spread across every continent. The issue with their new merch shop is that it marked mainly to Western Europe and North America, making it expensive and/or convoluted to receive their packages.
 
-This is where having a [UK reshipping company](https://www.myukmailbox.com/) comes in handy. You will have your own UK-based P.O. box to receive your goods, and the company will send your OSRS merch to you. Fees and paperwork may vary depending on the recipient country, but it is often much easier than going through direct international postal shipping.
+This is where having a [UK reshipping company](https://www.myukmailbox.com/) is a necessity. You will have your own UK-based P.O. box to receive your goods, and the company will send your OSRS merch to you. Fees and paperwork may vary depending on the recipient country, but it is often much easier than going through direct international postal shipping.
 
 This would especially be useful for buyers in developing countries (like Latin America) due to the instability in their postal systems.
 
@@ -19,7 +19,7 @@ Since 2015, both the Runescape and OSRS teams have periodically launched special
 
 For example, the 6-year anniversary of Oldschool Runescape launched a series of limited key-chains, long with a hilarious promotional video:
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/Plci-zWXw0" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Plci-zWXw0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Some items have come out of availability, but some still remain for long-term orders. This includes:
     • Runescape Max Cape keychains (including the Runescape 3 varieties)
