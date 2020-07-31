@@ -13,7 +13,7 @@ The announcement, which was posted during the morning of May 23rd on their offic
 
 The code, as well as the tools with which Runescape Classic was built, are simply no longer compatible or usable by the company, which also does not have access to all files due to the multiple restructurings that have taken place over the years.
 
-However, thanks to independent developers, you can still host your own instance of Runescape classic on just about any server. And if you choose to expand the server to a large-scale audience, I would highly recommend using [managed cloud hosting services](http://www.temok.com/) from Temok, a managed hosting & It services provider.
+However, thanks to independent developers, you can still host your own instance of Runescape classic on just about any server. And if you choose to expand the server to a large-scale audience, I would highly recommend using [managed cloud hosting services](http://www.temok.com/) from Temok, a managed hosting & IT services provider.
 
 ## Which Server Software to Use?
 
