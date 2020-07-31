@@ -1,5 +1,5 @@
 ---
-title: OSRS Has a Merch Shop: But Are International Buyers Left Out?
+title: OSRS Has a Merch Shop But Are International Buyers Left Out?
 layout: post
 image: https://i.imgur.com/MfB4bAW.jpg
 permalink: /osrs-merch-shop-international-shipping
