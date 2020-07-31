@@ -5,7 +5,7 @@ image: https://i.imgur.com/MfB4bAW.jpg
 permalink: /osrs-merch-shop-international-shipping
 ---
 
-That's right, Runescape and Oldschool Runecape has a real-life merchandise store. If you pay attention to regular Runescape updates, you may have noticed mentions of their merch shop hosted on Backstreet Merch, a UK-based producer of apparel & accessories.
+That's right, Oldschool Runecape has a real-life merchandise store. If you pay attention to regular Runescape updates, you may have noticed mentions of their merch shop hosted on Backstreet Merch, a UK-based producer of apparel & accessories.
 
 Although OSRS is created, hosted, and maintained in the UK, their audience is spread across every continent. The issue with their new merch shop is that it marked mainly to Western Europe and North America, making it expensive and/or convoluted to receive their packages.
 
