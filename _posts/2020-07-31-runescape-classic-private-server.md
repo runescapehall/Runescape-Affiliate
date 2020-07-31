@@ -7,7 +7,7 @@ image: https://i.imgur.com/kedMcvr.png
 
 Runescape was one of the first massively multiplayer video games in the world, reaching millions of users who built one of the largest communities to date, with active users to this day, and two successful sequels under its name.
 
-But unfortunately, not everything lasts forever. The Runescape Classic team, the original version of the famous title still in use, will have to close its doors in the coming months for technical reasons. While it wasn't specified, it was likely due to being unable to resolve prominent glitches liek the unclosable Crystal Key chest.
+But unfortunately, not everything lasts forever. The Runescape Classic team, the original version of the famous title still in use, will have to close its doors in the coming months for technical reasons. While it wasn't specified, it was likely due to being unable to resolve pressing issues like the permanently glitched Crystal Chest.
 
 The announcement, which was posted during the morning of May 23rd on their official site, indicates that the dilemma that has forced the closure of the title is its age. Runescape was released in 2001, making it one of the oldest multiplayer titles in the world.
 
