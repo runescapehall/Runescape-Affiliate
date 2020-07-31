@@ -17,7 +17,7 @@ However, thanks to independent developers, you can still host your own instance 
 
 ## Which Server Software to Use?
 
-In my [previous post](https://www.runescapehall.net/2020/04/27/runescape-classic-is-dead.html) on Runescpe Classic coming to an end, there are multiple software projects available to create a private server on your own VPS or cloud hosting. Considering you may want a more authentic experience, I think usig Open-RSC would be the best example.
+In my [previous post](https://www.runescapehall.net/2020/04/27/runescape-classic-is-dead.html) on Runescpe Classic coming to an end, there are multiple software projects available to create a private server on your own VPS or cloud hosting. Considering you may want a more authentic experience, I think using Open-RSC would be the best example.
 
 The Open RSC project uses IntelliJ IDEA Community, OpenJDK 13+, and MariaDB (MySQL) server as the backbone of it’s code-base, so be sure to have those installed on your server, whether it’s Linux, BSD, or Windows based.
 
