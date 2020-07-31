@@ -21,13 +21,14 @@ For example, the 6-year anniversary of Oldschool Runescape launched a series of 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-Plci-zWXw0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 Some items have come out of availability, but some still remain for long-term orders. This includes:
-    • Runescape Max Cape keychains (including the Runescape 3 varieties)
-    • Bob's Brilliant Axes Hoodie 
-    • The Dragonfire Shield Keychain
-    • A Slayer Cape iPhone Cover
-    • Fire Cape Keyring
-    • Old School Red Logo T-shirt
+- Runescape Max Cape keychains (including the Runescape 3 varieties)
+- Bob's Brilliant Axes Hoodie 
+- The Dragonfire Shield Keychain
+- A Slayer Cape iPhone Cover
+- Fire Cape Keyring
+- Old School Red Logo T-shirt
 
 Ocassionally, the Oldschool Runescape team will announce new items or discount sales embedded within the game update pages. If you don’t keep up with the official news, I would keep them bookmarked to see when they launch new products.
 
