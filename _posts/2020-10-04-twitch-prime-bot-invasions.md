@@ -5,8 +5,7 @@ image: https://i.imgur.com/Z0LYxFc.png
 permalink: /twitch-prime-bots-in-osrs
 ---
 
-<iframe width="640" height="480" src="https://www.youtube.com/watch?v=bLY5pvdtfqA" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bLY5pvdtfqA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Why does Twitch Prime allow for so many bots in Oldschool Runescape?
 
