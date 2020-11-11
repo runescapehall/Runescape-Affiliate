@@ -22,6 +22,7 @@ We've compiled a list of old and new clans that have existed in Runescape. Just 
 - [Gladiatorz](https://www.runescapehall.net/the-gladiatorz)
 - [Divine Forces](https://www.runescapehall.net/divine-forces)
 - [Dark Nation](https://www.runescapehall.net/dark-nation)
+- [The Runescape Warhungers Federation](https://www.runescapehall.net/The-Runescape_warhungers-Fenderation-Runescape-Clan)
 - [The Titans](https://www.runescapehall.net/the-titans)
 - [Rune Raiders](https://www.runescapehall.net/rune-raiders)
 - [Blacknights](https://www.runescapehall.net/BK-clan)
