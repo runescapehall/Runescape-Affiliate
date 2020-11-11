@@ -6,6 +6,7 @@ permalink: /runescape-clans
 
 We've compiled a list of old and new clans that have existed in Runescape. Just click on each name below to be directed to their respective page, and perhaps you may be able to reconnect with your old clanmates.
 
+- [Aggression](https://www.runescapehall.net/Aggression)
 - [Echo of Silence](https://www.runescapehall.net/2020/03/20/echo-of-silence-memberlist.html)
 - [Runescape Dinasty](https://www.runescapehall.net/2020/03/03/Runesacpe-Dinasty-Memberlist.html)
 - [Eternal Honour](https://www.runescapehall.net/2020/03/03/Eternal-Honour-Memberlist.html)
