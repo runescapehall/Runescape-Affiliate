@@ -28,3 +28,5 @@ We've compiled a list of old and new clans that have existed in Runescape. Just 
 - [Blacknights](https://www.runescapehall.net/BK-clan)
 - [THE Clan](https://www.runescapehall.net/the-clan)
 - [Collision](https://www.runescapehall.net/collision)
+- [Future of Old Style](https://www.runescapehall.net/future-of-old-style)
+
