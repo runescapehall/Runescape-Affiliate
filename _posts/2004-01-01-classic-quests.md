@@ -603,7 +603,7 @@ The Rehison family: Speak to Jethink as you come out of manhole and he will dire
 
 Plague house: Try to enter and you will be stopped. You will need to go find Bareak\'s office which is located west of the manhole. Tell the receptionist that it\'s important and she will let you in.
 
-Cure the Hangover: Bareak will have a hangover and you will need to get a cure. You need a bucket of milk, ground chocolate, which can be made using a chocolate bar (Found in Cooking Guild in Varrock) with a pestle & morter (Found in Herblaw shop in Taverly), and some snape grass which can be found west of the Crafting Guild (South of Falador). Add all the ingredients together and give the cure to Bareak. He will give you the pass you need to enter the plague house.
+Cure the Hangover: Bareak will have a hangover and you will need to get a cure. You need a bucket of milk, ground chocolate, which can be made using a chocolate bar (Found in Cooking Guild in Varrock) with a pestle & morter (Found in Herblaw shop in Taverly), and some [snape grass](https://www.runescapehall.net/2019/10/the-fastest-way-to-get-snape-grass.html) which can be found west of the Crafting Guild (South of Falador). Add all the ingredients together and give the cure to Bareak. He will give you the pass you need to enter the plague house.
 
 Plague house: Once inside the house, go to the basement and you find Elena. Find the key, which is hidden in a barrel. Go back to Edmond and he will reward you for saving his daughter.
 
