@@ -49,5 +49,6 @@ We've compiled a list of old and new clans that have existed in Runescape. Just 
 - [PC Heartz](https://www.runescapehall.net/pc-heartz)
 - [Suomi Finland Perkele](https://www.runescapehall.net/suomi-finland)
 - [All RSD Memberlist](https://www.runescapehall.net/all-rsd)
+- [All DF Ever](https://www.runescapehall.net/all-df-ever)
 - [The Slayers Guild](https://www.runescapehall.net/the-slayers-guild)
 - [The Netherlands](https://www.runescapehall.net/the-netherlands)
