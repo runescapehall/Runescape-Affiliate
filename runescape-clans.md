@@ -52,3 +52,4 @@ We've compiled a list of old and new clans that have existed in Runescape. Just 
 - [All DF Ever](https://www.runescapehall.net/all-df-ever)
 - [The Slayers Guild](https://www.runescapehall.net/the-slayers-guild)
 - [The Netherlands](https://www.runescapehall.net/the-netherlands)
+- [Top 200 F2p Players 2007](https://www.runescapehall.net/top-f2p-2007)
