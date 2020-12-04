@@ -28,6 +28,7 @@ We've compiled a list of old and new clans that have existed in Runescape. Just 
 - [Rune Raiders](https://www.runescapehall.net/rune-raiders)
 - [Red Devil Clan](https://www.runescapehall.net/2020/02/red-devil-clan-in-2007.html)
 - [TMRD](https://www.runescapehall.net/tmrd)
+- [Torment](https://www.runescapehall.net/torment-clan-osrs)
 - [The British Elites](https://www.runescapehall.net/the-british-elites-runescape-clan)
 - [The Runescape Warhungers Federation](https://www.runescapehall.net/The-Runescape_warhungers-Fenderation-Runescape-Clan)
 - [THE Clan](https://www.runescapehall.net/the-clan)
