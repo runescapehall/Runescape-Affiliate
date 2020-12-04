@@ -46,3 +46,4 @@ We've compiled a list of old and new clans that have existed in Runescape. Just 
 ### Teams and Non-clans
 
 - [PC Heartz](https://www.runescapehall.net/pc-heartz)
+- [Suomi Finland Perkele](https://www.runescapehall.net/suomi-finland)
