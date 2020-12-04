@@ -18,6 +18,7 @@ We've compiled a list of old and new clans that have existed in Runescape. Just 
 - [Dark Slayers](https://www.runescapehall.net/2020/02/05/dark-slayers-final-memberlist.html)
 - [Dark Ascension](https://www.runescapehall.net/dark-ascension-clan)
 - [Divine Forces](https://www.runescapehall.net/divine-forces)
+- [Deathrow](https://www.runescapehall.net/deathrow-clan)
 - [Dark Nation](https://www.runescapehall.net/dark-nation)
 - [Echo of Silence](https://www.runescapehall.net/2020/03/20/echo-of-silence-memberlist.html)
 - [Eternal Honour](https://www.runescapehall.net/2020/03/03/Eternal-Honour-Memberlist.html)
