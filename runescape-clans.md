@@ -41,3 +41,7 @@ We've compiled a list of old and new clans that have existed in Runescape. Just 
 - [Violent Resolution](https://www.runescapehall.net/Violent-Resolution-Clan)
 - [Wilderland](https://www.runescapehall.net/wilderland-luso-brazillian-clan-runescape)
 - [Zammy Elites](https://www.runescapehall.net/zammy-elites-clan)
+
+### Teams and Non-clans
+
+[PC Heartz](https://www.runescapehall.net/pc-heartz)
