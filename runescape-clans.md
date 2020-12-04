@@ -35,3 +35,4 @@ We've compiled a list of old and new clans that have existed in Runescape. Just 
 - [The Rising](https://www.runescapehall.net/the-rising-clan)
 - [Tha Outlawz](https://www.runescapehall.net/tha-outlawz-clan-memberlist)
 - [Violent Resolution](https://www.runescapehall.net/Violent-Resolution-Clan)
+- [Zammy Elites](https://www.runescapehall.net/zammy-elites-clan)
