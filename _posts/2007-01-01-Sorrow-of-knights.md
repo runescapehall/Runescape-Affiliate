@@ -8,22 +8,22 @@ permalink: /sorrow-of-knights
 
 ## Stats
 
-Total Members: 79
-Average Combat: 120.1
-Average Hitpoints: 96.38
-Average Overall: 1,613
-Total XP: 7,513,447,974
-Category: Official Clan List
-Stats Last Updated: 20th Nov 2007
+- Total Members: 79
+- Average Combat: 120.1
+- Average Hitpoints: 96.38
+- Average Overall: 1,613
+- Total XP: 7,513,447,974
+- Category: Official Clan List
+- Stats Last Updated: 20th Nov 2007
 
 	
 ## Information
 
-F2P or P2P: F2P Based
-Cape Colour: Green
-Clan Initials: SoK
-Time Base: Asia-Pacific
-Home World: 11
+- F2P or P2P: F2P Based
+- Cape Colour: Green
+- Clan Initials: SoK
+- Time Base: Asia-Pacific
+- Home World: 11
 
 ## Memberlist
 
