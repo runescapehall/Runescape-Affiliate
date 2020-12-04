@@ -31,5 +31,6 @@ We've compiled a list of old and new clans that have existed in Runescape. Just 
 - [The Runescape Warhungers Federation](https://www.runescapehall.net/The-Runescape_warhungers-Fenderation-Runescape-Clan)
 - [THE Clan](https://www.runescapehall.net/the-clan)
 - [The Titans](https://www.runescapehall.net/the-titans)
+- [The Rising](https://www.runescapehall.net/the-rising-clan)
 - [Tha Outlawz](https://www.runescapehall.net/tha-outlawz-clan-memberlist)
 - [Violent Resolution](https://www.runescapehall.net/Violent-Resolution-Clan)
