@@ -9,21 +9,21 @@ permalink: /swedish-zaintz
 
 ## Stats
 
-Total Members: 48
-Average Combat: 119.22
-Average Hitpoints: 95.83
-Average Overall: 1,850
-Category: Official Clan List
-Stats Last Updated: 26th Nov 2007
+- Total Members: 48
+- Average Combat: 119.22
+- Average Hitpoints: 95.83
+- Average Overall: 1,850
+- Category: Official Clan List
+- Stats Last Updated: 26th Nov 2007
 
 	
 ## Information
 
-F2P or P2P: P2P Based
-Cape Colour: Yellow
-Clan Initials: TSZ
-Time Base: Europe
-Home World: 120 
+- F2P or P2P: P2P Based
+- Cape Colour: Yellow
+- Clan Initials: TSZ
+- Time Base: Europe
+- Home World: 120 
 
 ## Memberlist
 <pre>
