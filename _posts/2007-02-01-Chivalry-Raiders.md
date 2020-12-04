@@ -1,0 +1,198 @@
+---
+title: Chivalry Raiders
+layout: post
+permalink: /chivalry-raiders
+---
+
+## Stats
+
+- Total Members: 171
+- Average Combat: 121.09
+- Average Hitpoints: 96.87
+- Average Overall: 1,669
+- Total XP: 16,468,186,917
+- Category: Official Clan List
+- Stats Last Updated: 16th Nov 2007
+
+	
+## Information
+
+- F2P or P2P: F2P & P2P Based
+- Cape Colour: Not Set
+- Clan Initials: CR
+- Time Base: America & Asia-Pacific
+- Home World: 1 
+
+## Memberlist
+
+- 1 	Drbeer 	126.23 	99 	1,846 	99 Hitpoints	
+- 2 	Force_User1 	126.23 	99 	1,971 	99 Attack	
+- 3 	The_Splund 	126.23 	99 	2,103 	99 Hitpoints	
+- 4 	Esdxc37 	126.23 	99 	2,183 	99 Hitpoints	
+- 5 	Skin_Style 	126.23 	99 	1,831 	99 Strength	
+- 6 	Schlak182 	126.23 	99 	1,987 	99 Attack	
+- 7 	Kortho 	126.23 	99 	1,869 	99 Attack	
+- 8 	Halo226 	126.23 	99 	1,889 	99 Attack	
+- 9 	4heidi 	126.23 	99 	1,998 	99 Attack	
+- 10 	Jono_151 	126.23 	99 	1,729 	99 Attack	
+- 11 	Alpz88 	126.23 	99 	2,156 	99 Attack	
+- 12 	Mtoise 	126.23 	99 	1,686 	99 Attack	
+- 13 	Chriskung123 	126.23 	99 	1,863 	99 Strength	
+- 14 	Martino_Heat 	126.23 	99 	1,924 	99 Attack	
+- 15 	Embodied23 	126.23 	99 	1,629 	99 Hitpoints	
+- 16 	Josh013 	126.23 	99 	1,895 	99 Hitpoints	
+- 17 	Dan_Man14 	126.23 	99 	1,850 	99 Defence	
+- 18 	Sniper72 	126.23 	99 	2,003 	99 Attack	
+- 19 	Kess_Emek 	126.23 	99 	1,916 	99 Hitpoints	
+- 20 	Merked05 	126.23 	99 	1,730 	99 Attack	
+- 21 	Stoksy_69er 	126.23 	99 	1,743 	99 Hitpoints	
+- 22 	Davis_123 	126.23 	99 	1,975 	99 Attack	
+- 23 	Smileplease5 	126.23 	99 	1,759 	99 Hitpoints	
+- 24 	Thant_Cz 	126.23 	99 	1,902 	99 Attack	
+- 25 	Wilddude503 	126.23 	99 	1,902 	99 Hitpoints	
+- 26 	Tirithe 	126.23 	99 	1,916 	99 Hitpoints	
+- 27 	Ork_Legend 	126.23 	99 	1,676 	99 Attack	
+- 28 	Handycapduck 	126.23 	99 	1,915 	99 Hitpoints	
+- 29 	Kowitom 	126.23 	99 	1,990 	99 Defence	
+- 30 	I_Is_Aydin 	126.23 	99 	1,854 	99 Fletching	
+- 31 	Mazvis11 	126.1 	99 	1,746 	99 Attack	
+- 32 	Sascwatch 	126.1 	99 	1,763 	99 Hitpoints	
+- 33 	Dj_Jimmyd 	126.1 	99 	1,534 	99 Hitpoints	
+- 34 	Greeno777 	126.1 	99 	1,725 	99 Hitpoints	
+- 35 	Soul581 	126.1 	99 	1,862 	99 Hitpoints	
+- 36 	I_R_Stewy 	125.48 	99 	1,525 	99 Hitpoints	
+- 37 	Laizan 	125.48 	99 	2,020 	99 Hitpoints	
+- 38 	Killeradam75 	125.35 	99 	1,911 	99 Hitpoints	
+- 39 	Legend_44 	125.23 	99 	1,545 	99 Hitpoints	
+- 40 	X_Ranr_X 	125.23 	99 	2,113 	99 Hitpoints	
+- 41 	Naughty_Bro 	125.1 	99 	1,948 	99 Attack	
+- 42 	Goku_Nazz 	125.1 	99 	1,895 	99 Hitpoints	
+- 43 	J_I_N_X_O 	125.1 	99 	1,932 	99 Hitpoints	
+- 44 	Tomdom_89 	125.1 	99 	1,898 	99 Hitpoints	
+- 45 	Sleekism69 	125.1 	99 	1,822 	99 Hitpoints	
+- 46 	Shorty_6074 	125.1 	99 	1,868 	99 Attack	
+- 47 	Dezza69 	125.1 	99 	1,794 	99 Attack	
+- 48 	Poo_On_Toast 	125.1 	99 	1,657 	99 Attack	
+- 49 	Death_Await 	125.1 	99 	1,616 	99 Attack	
+- 50 	The_Kus 	125.1 	99 	1,760 	99 Strength	
+- 51 	Ch4nce 	125.1 	99 	1,608 	99 Hitpoints	
+- 52 	Rs_Aint_Cool 	125.1 	99 	1,819 	99 Attack	
+- 53 	Dark__Ruler 	124.73 	99 	1,763 	99 Attack	
+- 54 	X_Paradox_X1 	124.6 	99 	1,265 	99 Attack	
+- 55 	Berco 	124.48 	99 	1,939 	99 Attack	
+- 56 	Surrey_St 	124.48 	99 	1,627 	99 Attack	
+- 57 	Zerox187 	124.35 	99 	1,862 	99 Strength	
+- 58 	Lostdesire1 	124.23 	99 	1,757 	99 Strength	
+- 59 	Sparocket123 	124.23 	99 	1,844 	99 Attack	
+- 60 	Burnleyuk 	124.1 	99 	1,834 	99 Fletching	
+- 61 	Young_Mac15 	124.1 	99 	1,910 	99 Hitpoints	
+- 62 	Taurus_2nv 	124.1 	99 	1,325 	99 Hitpoints	
+- 63 	King_Eryx 	124.1 	99 	1,975 	99 Attack	
+- 64 	Mick316 	124.1 	99 	1,582 	99 Hitpoints	
+- 65 	Yorkie 	124.1 	99 	1,567 	99 Hitpoints	
+- 66 	Cryartorn 	124.1 	99 	1,744 	99 Attack	
+- 67 	Enigma_013 	124.1 	99 	1,749 	99 Hitpoints	
+- 68 	Play108 	124.1 	99 	1,551 	99 Hitpoints	
+- 69 	Happy_Canine 	124.1 	99 	1,854 	99 Attack	
+- 70 	Ownage020 	124.1 	99 	1,610 	99 Strength	
+- 71 	Etu2 	124.1 	99 	1,717 	99 Hitpoints	
+- 72 	P4nteric4 	124.1 	99 	1,548 	99 Attack	
+- 73 	Xxmageudiexx 	124.1 	99 	1,517 	99 Hitpoints	
+- 74 	Pitto999 	124.1 	98 	1,715 	99 Runecraft	
+- 75 	Kronos_Old_1 	123.58 	99 	1,708 	99 Defence	
+- 76 	Notoriousblz 	123.35 	99 	1,773 	99 Attack	
+- 77 	Madsurfer2 	123.35 	98 	1,638 	99 Attack	
+- 78 	Darty690 	123.23 	99 	1,784 	99 Woodcutting	
+- 79 	Sic_Mick 	123.23 	99 	1,679 	99 Attack	
+- 80 	Darkwis1000 	123.23 	99 	1,090 	99 Defence	
+- 81 	Korn577 	123.13 	99 	1,718 	99 Hitpoints	
+- 82 	Waser180 	123.1 	99 	1,788 	99 Hitpoints	
+- 83 	Tubocharged 	123.1 	99 	1,785 	99 Hitpoints	
+- 84 	Rockinsummer 	123.1 	99 	1,477 	99 Hitpoints	
+- 85 	Yaochee 	123.1 	99 	1,628 	99 Hitpoints	
+- 86 	Kilerguy3031 	122.73 	99 	1,656 	99 Hitpoints	
+- 87 	Ych_Sg 	122.23 	99 	1,096 	99 Attack	
+- 88 	Ematouk 	122.1 	99 	1,768 	99 Attack	
+- 89 	Holy_Lordz 	121.93 	99 	1,449 	99 Strength	
+- 90 	Flyingcat666 	121.85 	99 	1,433 	99 Hitpoints	
+- 91 	Nickolaz 	121.85 	98 	1,637 	99 Strength	
+- 92 	Herkle 	121.8 	98 	1,664 	99 Defence	
+- 93 	Wally505 	121.78 	98 	1,817 	99 Cooking	
+- 94 	Jason3333333 	121.6 	98 	1,537 	99 Strength	
+- 95 	Dark_Mekro 	121.6 	97 	1,607 	99 Attack	
+- 96 	Matt102938 	121.6 	97 	1,598 	99 Cooking	
+- 97 	Rockin_Elf 	121.48 	94 	1,832 	99 Attack	
+- 98 	Cashmoney982 	121.35 	99 	1,582 	99 Strength	
+- 99 	B__A__J 	121.35 	98 	1,642 	99 Strength	
+- 100 	Castdrobass 	121.25 	96 	1,709 	99 Strength	
+- 101 	Paul18243 	121.23 	97 	1,438 	99 Strength	
+- 102 	Chinotto5 	121.23 	95 	1,728 	99 Ranged	
+- 103 	Puremag_C 	121.1 	99 	1,605 	99 Hitpoints	
+- 104 	Yankee03 	121.1 	97 	1,794 	99 Attack	
+- 105 	Kurtd 	120.98 	97 	1,332 	99 Attack	
+- 106 	Gunner_27 	120.88 	96 	1,613 	98 Attack	
+- 107 	J40k 	120.15 	96 	1,850 	99 Cooking	
+- 108 	Teen_Power30 	120.13 	96 	1,703 	99 Attack	
+- 109 	Omerta140 	120.05 	96 	1,507 	99 Attack	
+- 110 	Da_Coom 	119.98 	96 	1,689 	99 Strength	
+- 111 	Strider263 	119.4 	97 	1,532 	99 Defence	
+- 112 	Volcom456186 	119.35 	95 	1,570 	99 Attack	
+- 113 	Ziggysdragon 	119.18 	97 	1,505 	99 Attack	
+- 114 	Bobmarleyo21 	119.15 	95 	1,866 	96 Attack	
+- 115 	Zoletan600 	119.05 	97 	1,487 	99 Attack	
+- 116 	Couji 	119.05 	92 	1,719 	99 Attack	
+- 117 	Acadac 	118.88 	96 	1,769 	99 Cooking	
+- 118 	606480 	118.85 	98 	1,658 	99 Strength	
+- 119 	Mr_Money411 	118.85 	96 	1,621 	99 Attack	
+- 120 	Dakiller082 	118.53 	95 	1,724 	99 Attack	
+- 121 	Patricklord 	118.53 	94 	1,741 	99 Attack	
+- 122 	Warman132 	118.35 	95 	1,389 	99 Strength	
+- 123 	Lightice_09 	118.05 	95 	1,665 	99 Strength	
+- 124 	Rukano 	117.97 	96 	1,780 	99 Attack	
+- 125 	Britboy118 	117.95 	96 	1,706 	99 Woodcutting	
+- 126 	Killertron50 	117.85 	95 	1,580 	97 Attack	
+- 127 	Gmoney18 	117.8 	95 	1,642 	99 Strength	
+- 128 	Stsiolis 	117.4 	95 	1,591 	99 Attack	
+- 129 	Red_Rascal 	117.38 	94 	1,398 	96 Strength	
+- 130 	Entendu101 	117.33 	96 	1,579 	99 Defence	
+- 131 	Crusader214 	117.25 	97 	1,547 	99 Strength	
+- 132 	Yo_Mama9100 	116.98 	95 	1,492 	99 Strength	
+- 133 	Xlil_8x 	116.7 	96 	1,452 	99 Strength	
+- 134 	Bibat 	116.6 	95 	1,709 	98 Attack	
+- 135 	Myronator 	116.6 	93 	1,122 	95 Strength	
+- 136 	Smp_Srs 	116.53 	96 	1,558 	97 Attack	
+- 137 	Squidol 	116.43 	95 	1,551 	99 Attack	
+- 138 	Ironmonkey23 	116.38 	92 	1,457 	99 Strength	
+- 139 	Samp5 	116.35 	93 	1,412 	99 Woodcutting	
+- 140 	Harsh0000 	116.3 	92 	1,424 	99 Strength	
+- 141 	Cy80i2gda12k 	116.2 	95 	1,739 	99 Strength	
+- 142 	Xxdknightxx 	116.13 	96 	1,349 	99 Strength	
+- 143 	Skategamer 	115.55 	95 	1,853 	99 Cooking	
+- 144 	Hangman293 	115.45 	95 	1,521 	95 Hitpoints	
+- 145 	Neptune07 	115.4 	94 	1,638 	95 Attack	
+- 146 	Dea_Proximo 	115.4 	92 	1,690 	99 Magic	
+- 147 	Kylerzepecki 	115.35 	94 	1,613 	98 Attack	
+- 148 	Hot_Brady 	114.63 	92 	1,445 	94 Attack	
+- 149 	Bambam72 	114.53 	93 	1,719 	99 Fletching	
+- 150 	Om3ga_Do0m 	114.4 	92 	957 	99 Strength	
+- 151 	Darkslayor2 	114.08 	93 	1,518 	99 Strength	
+- 152 	Killersrvnge 	113.6 	91 	1,383 	93 Defence	
+- 153 	Mattkata 	113.4 	99 	1,818 	99 Defence	
+- 154 	Busty_Beast 	113.38 	94 	1,018 	99 Attack	
+- 155 	Mouse220 	113.08 	94 	1,734 	94 Attack	
+- 156 	Ascend_Above 	112.75 	98 	1 	99 Attack	
+- 157 	Hyushio 	112.75 	92 	1,756 	94 Fletching	
+- 158 	Brandon13989 	112.63 	92 	1,813 	94 Magic	
+- 159 	Mmilord 	112.48 	92 	1,669 	93 Strength	
+- 160 	Four02 	112.3 	90 	1,508 	94 Attack	
+- 161 	Koreanater 	112.08 	91 	1,584 	99 Cooking	
+- 162 	Zscar3crow 	111.9 	90 	1,468 	92 Fletching	
+- 163 	X_Snudge_X 	111.8 	90 	1,495 	99 Cooking	
+- 164 	Soul_Man2222 	111.58 	91 	1,446 	95 Strength	
+- 165 	Strpur3ownz5 	111.2 	91 	1,461 	96 Strength	
+- 166 	Slicknick777 	111.15 	88 	1,488 	92 Attack	
+- 167 	Flofodo 	110.95 	88 	1,734 	90 Strength	
+- 168 	Van_Driver68 	110.35 	94 	1,755 	99 Magic	
+- 169 	Patfan901 	110.35 	90 	1,424 	94 Attack	
+- 170 	Uknownboy 	110.3 	91 	1,641 	98 Magic	
+- 171 	Free_Deem 	109.58 	89 	1,313 	91 Attack
