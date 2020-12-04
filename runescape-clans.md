@@ -12,6 +12,7 @@ We've compiled a list of old and new clans that have existed in Runescape. Just 
 - [Blacknights](https://www.runescapehall.net/BK-clan)
 - [Collision](https://www.runescapehall.net/collision)
 - [Collided Titans](https://www.runescapehall.net/the-rising-clan)
+- [Clan Nemesis](https://www.runescapehall.net/nemesis)
 - [Chivalry Legions](https://www.runescapehall.net/chivalry-legions-clan)
 - [Chivalry Raiders](https://www.runescapehall.net//chivalry-raiders)
 - [Dark Slayers](https://www.runescapehall.net/2020/02/05/dark-slayers-final-memberlist.html)
