@@ -29,6 +29,7 @@ We've compiled a list of old and new clans that have existed in Runescape. Just 
 - [Rune Raiders](https://www.runescapehall.net/rune-raiders)
 - [Red Devil Clan](https://www.runescapehall.net/2020/02/red-devil-clan-in-2007.html)
 - [Sorrow of Knights](https://www.runescapehall.net/sorrow-of-knights)
+- [Swedish ZaintZ](https://www.runescapehall.net/swedish-zaintz)
 - [TMRD](https://www.runescapehall.net/tmrd)
 - [Torment](https://www.runescapehall.net/torment-clan-osrs)
 - [The British Elites](https://www.runescapehall.net/the-british-elites-runescape-clan)
