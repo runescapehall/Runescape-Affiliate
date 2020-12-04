@@ -50,3 +50,4 @@ We've compiled a list of old and new clans that have existed in Runescape. Just 
 - [Suomi Finland Perkele](https://www.runescapehall.net/suomi-finland)
 - [All RSD Memberlist](https://www.runescapehall.net/all-rsd)
 - [The Slayers Guild](https://www.runescapehall.net/the-slayers-guild)
+- [The Netherlands](https://www.runescapehall.net/the-netherlands)
