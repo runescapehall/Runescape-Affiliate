@@ -11,6 +11,7 @@ We've compiled a list of old and new clans that have existed in Runescape. Just 
 - [Ancient Blood](https://www.runescapehall.net/ancient-blood-clan)
 - [Blacknights](https://www.runescapehall.net/BK-clan)
 - [Collision](https://www.runescapehall.net/collision)
+- [Chivalry Legions](https://www.runescapehall.net/chivalry-legions-clan)
 - [Dark Slayers](https://www.runescapehall.net/2020/02/05/dark-slayers-final-memberlist.html)
 - [Dark Ascension](https://www.runescapehall.net/dark-ascension-clan)
 - [Divine Forces](https://www.runescapehall.net/divine-forces)
