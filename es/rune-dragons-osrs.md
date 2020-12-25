@@ -1,6 +1,6 @@
 ---
 title: Construye una Rune Dragón Alt - Un fácil 1M+ Oro por hora
-layout: post
+layout: page
 image: https://i.imgur.com/Vs0ZZov.jpg
 permalink: /es/rune-dragons-osrs
 ---
