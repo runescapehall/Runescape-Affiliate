@@ -70,3 +70,7 @@ Rune dragons don’t have an exciting drop table, but they are quite consistant 
 
 If you basically play OSRS as your full time job, it’s worth putting hundreds of hours in to make big fat stacks while hopefully doing something else productive. This account also doubles as an efficient Vorkath killer, as melee + the dragon lance is the fastest way to kill it, netting you around 4M gold per hour.
 Othewise, you may consider making a more simplistic alt accounts, such as an Amethyst miner, a fishing alt, or smithing alt.
+
+---
+
+Translated into: [ES](https://www.runescapehall.net/es/rune-dragons-osrs)
