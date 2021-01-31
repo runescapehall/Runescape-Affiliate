@@ -1,8 +1,8 @@
+---
 title: Bosses Sorted by Difficulty in Oldschool Runescape
 layout: post
 image: http://i.imgur.com/zYTqVPL.png
 permalink: /bosses-by-difficulty-osrs
-
 ---
 
 Are you looking to get started in some serious PvM? Don't know where to go first?
