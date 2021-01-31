@@ -141,4 +141,4 @@ The easiest way to bank is to run to Corsair Cove, or you may teleport to Falado
 
 ---
 
-This article is also available in the following languages: [ES](https://www.runescapehall.net/es/range-en-f2p) [DE](https://www.runescapehall.net/de/f2p-ranged) [NL](https://www.runescapehall.net/nl/f2p-range) [FR](https://www.runescapehall.net/fr/f2p-ranged) [JP](https://www.runescapehall.net/jp/ranged-f2p) [CN](https://www.runescapehall.net/cn/f2p-range)
+This article is also available in the following languages: [ES](https://www.runescapehall.net/es/range-en-f2p) [DE](https://www.runescapehall.net/de/f2p-ranged) [NL](https://www.runescapehall.net/nl/f2p-range) [FR](https://www.runescapehall.net/fr/f2p-ranged)
