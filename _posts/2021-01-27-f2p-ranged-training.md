@@ -137,5 +137,3 @@ If you are under 115 combat, then you might as well AFK train on Ice Warriors ou
 You will need to traverse south of Port Sarim and into the Asgarnian dungeon where you find Blurite Ore. Since they have a high aggressive range, you can pretty much guess where to park your character in the center of the room and allow Ice Warriors to start attacking you.
 
 The easiest way to bank is to run to Corsair Cove, or you may teleport to Falador and run back down to the dungeon.
-
-This article is also available in the following languages: [ES](https://www.runescapehall.net/es/range-en-f2p) [DE](https://www.runescapehall.net/de/f2p-ranged) [NL](https://www.runescapehall.net/nl/f2p-range) [FR](https://www.runescapehall.net/fr/f2p-ranged)
