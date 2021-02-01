@@ -9,8 +9,6 @@ Are you looking to get started in some serious PvM? Don't know where to go first
 
 In this guide, we will rank beginner PvM bosses in Oldschool Runescape from the easiest to the hardest. Depending on your stats and hand-eye coordination, it's up to you to choose which bosses to go for first.
 
----
-
 ## Super Easy: The Barrows Brothers
 
 Barrows is a mini-game with bosses up to Level 115. While this may sound scary, these bosses have no complicated mechanics to them, and nearly all of them are vulnerable to magic.
@@ -171,7 +169,5 @@ The Nightmare is one of the latest bosses, and it really can't be killed without
 Ideally, you will want to have the Taste of Hope quest completed for a quick teleport near Slepe. The Nightmare boss is located just underneath the town, and there is no other requirements to engage the boss.
 
 The easiest way to get into a group is to be a tank on a high-level account. I would suggest lookup up the Nightmare Boss tanking guide by Bekt on Youtube.
-
----
 
 That's the list of bosses to kill in the game. If you've found this short guide useful, be sure to give it a share on social media.
