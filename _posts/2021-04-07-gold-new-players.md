@@ -34,8 +34,6 @@ With a decent weapon and enough gold to pay the fare between banking trips, head
 
 Expect around 50,0000 gold per hour with a negligible amount of combat experience.
 
-## 
-
 ## Grinding & Re-selling Chocolate Bars
 
 Once you've accrued a little bit of wealth, a good way to reinvest it is to buy chocolate bars from the Grand Exchange. This is a highly-desired ingredient used in Herblore, so there is always a decent profit margin to be had.
