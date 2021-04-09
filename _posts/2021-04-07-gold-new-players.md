@@ -7,7 +7,7 @@ permalink: /osrs-gold-new-players
 
 Making money in OSRS is absolutely tough! Not only do you face extreme competition with bots, but price fluctations dictate what methods to choose from, leaving new players with few and inefficient options.
 
-Aside from going out and purchasing [OSRS gold](https://www.5mmo.com/osrs-gold/) from a reputable supplier, this article will list some safe go-to options to obtain starter gold.
+Aside from going out and purchasing [osrs gold](https://www.5mmo.com/osrs-gold/) from a reputable supplier, this article will list some safe go-to options to obtain starter gold.
 
 
 ## Picking up Ashes at the Grand Exchange
@@ -80,4 +80,4 @@ Dyes can also be mixed to create more expensive dyes, so keep up with prices to 
 
 Generally speaking, gold is pretty slow on a fresh free-to-play account. You will likely have to waste several days to obtain your first Membership Bond without having much fun at all.
 
-If you are tired of the grind, I would highly recommend purchasing [buy OSRS gold](https://www.5mmo.com/osrs-gold/) from 5MMO, a leading Runescape gold supplier.
+If you are tired of the grind, I would highly recommend purchasing [buy osrs gold](https://www.5mmo.com/osrs-gold/) from 5MMO, a leading Runescape gold supplier.
