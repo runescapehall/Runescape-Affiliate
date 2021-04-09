@@ -8,6 +8,8 @@ ruby RUBY_VERSION
 #     bundle exec jekyll serve
 #
 
+gem "kramdown", ">= 2.3.1"
+
 # If you have any plugins, put them here!
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 group :jekyll_plugins do
