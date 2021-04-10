@@ -55,7 +55,6 @@ Some shooting star locations include:
 - Wilderness **Bandit Camp**
 - Wilderness **Pirate Hideout**
 - Wilderness **Resource Mine**
-- 
 
 If you are the first player get on the star, it will be announced in the global chat.
 
