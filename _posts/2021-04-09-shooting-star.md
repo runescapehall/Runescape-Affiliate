@@ -9,7 +9,7 @@ Players that were around during the early days of Runescape probably remember Sh
 
 On any given world (besides deadman or tournament worlds), a shooting star will fall at a random spot every two hours or so. There may be variance between worlds, so it can't be abused by hopping worlds.
 
-While they are mostly followed for the easy mining experience, it's also an opportunity to make [runescape 3 gold](https://www.z2u.com/runescape-3/Gold-1-1481) by trading in rewards for sellable items.
+While they are mostly followed for the easy mining experience, it's also an opportunity to make [osrs gold](https://www.z2u.com/runescape-2007/Gold-1-1478) by trading in rewards for sellable items.
 
 ## Finding a Shooting Star
 
