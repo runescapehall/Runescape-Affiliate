@@ -2,7 +2,7 @@
 title: Building a Vyrewatch Sentinel Alt Account - The most AFK combat moneymaker in OSRS
 layout: post
 image: https://i.imgur.com/1FGw3GW.png
-permlaink: /vyrewatch-sentinel-alt-account
+permalink: /2020/11/15/vyrewatch-sentinel-alt-account.html
 ---
 
 Vyrewatch Sentinels are stronger variants of the Vyrewatch that were released alongside the Sins of the Father quest. Just like they were in Runescape 3, they are famous for AFK grinding due to theme close proximity to the an altar and bank.
