@@ -4,7 +4,7 @@ layout: page
 permalink: /runescape-clans
 ---
 
-We've compiled a list of old and new clans that have existed in Runescape. Just click on each name below to be directed to their respective page, and perhaps you may be able to reconnect with your old clanmates.
+We've compiled a list of clans that have existed during the golden era of Runescape, **taken from the defunct [RuneHead clan database](https://web.archive.org/web/20070930190233/http://runehead.com/)**. Just click on each name below to be directed to their respective page, and perhaps you may be able to reconnect with your old clanmates.
 
 - [Adelais](https://www.runescapehall.net/Adelais)
 - [Aggression](https://www.runescapehall.net/Aggression)
