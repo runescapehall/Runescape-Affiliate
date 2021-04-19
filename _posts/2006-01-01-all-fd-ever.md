@@ -4,6 +4,9 @@ layout: post
 permalink: /all-df-ever
 ---
 
+#### Notice
+We've compiled a list of clans that have existed during the golden era of Runescape, **taken from the defunct [RuneHead clan database](https://web.archive.org/web/20070108040636/http://runehead.com/)**. Go back to the [clan list directory](https://www.runescapehall.net/runescapeclans) to find more oldschool clans.
+
 <pre>
 1 	Daemonstool 	126.23 	99 	2,074 	99 Attack	
 2 	Egertaia 	126.23 	99 	2,182 	99 Defence	
